@@ -18,10 +18,34 @@
 > Element designed to reinforce the antenna mounting when the base is attached to a small-diameter pipe, such as a 30 mm one. The connection can be strengthened using this component. The model allows adjusting the pipe diameter by modifying a parameter in the spreadsheet within FreeCAD.
 
 
+> [!NOTE]
+> **Required software:**
+<a href="https://www.freecad.org/downloads">
+    <img src="https://img.shields.io/badge/FreeCAD-1.0-blue?logo=https://raw.githubusercontent.com/SoftFever/OrcaSlicer/refs/heads/main/resources/images/OrcaSlicer.ico" height="40">
+</a>
+<br><br><br><br>
+
+
+> [!NOTE]
+> **Optional software:**
+<a href="https://github.com/SoftFever/OrcaSlicer">
+    <img src="https://img.shields.io/badge/OrcaSlicer-2.2-orange?logo=https://raw.githubusercontent.com/SoftFever/OrcaSlicer/refs/heads/main/resources/images/OrcaSlicer.ico" height="40">
+</a>
+<br><br><br><br>
+
+
 <div align="center">
     <img src="05_Inkscape\Page_Page 1.png"/>
 </div>
 
+
+> [!NOTE]
+> **PARAMETERS CHANGE**
+> Parameters can be changes in file: 10_FreeCAD\3DP-ParametricHinge-R1C51.FCStd
+<div align="center">
+    <img src="01_Screens\Animation.gif"/>
+</div>
+<br><br><br><br>
 
 <!-- VARIANTS SECTION -->
 <!-- VARIANTS SECTION -->
