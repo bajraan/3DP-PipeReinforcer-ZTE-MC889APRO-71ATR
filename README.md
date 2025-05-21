@@ -21,7 +21,7 @@
 > [!NOTE]
 > **Required software:**
 <a href="https://www.freecad.org/downloads">
-    <img src="https://img.shields.io/badge/FreeCAD-1.0-blue?logo=https://raw.githubusercontent.com/SoftFever/OrcaSlicer/refs/heads/main/resources/images/OrcaSlicer.ico" height="40">
+    <img src="https://img.shields.io/badge/FreeCAD-1.0.1-blue?logo=https://raw.githubusercontent.com/SoftFever/OrcaSlicer/refs/heads/main/resources/images/OrcaSlicer.ico" height="40">
 </a>
 
 
